@@ -1,0 +1,71 @@
+body {
+  background: #F7F7F7;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
+}
+
+h1 {
+  color: orange;
+  padding-top: 1em;
+	font-size: 3em;
+	font-family: 'Alfa Slab One', cursive;
+}
+
+h2 {
+  font-size: 1.2em;
+  padding-bottom: 1.5em;
+}
+
+li {
+  list-style: none;
+  padding: 0.5em;
+  text-align: center;
+}
+
+ul {
+  padding-left: 0px!important;
+}
+
+.red {
+  color: red;
+}
+
+#pet {
+  height: 550px;
+  /* reserves the space for our fade in */
+}
+
+#photo > p > img {
+  border-radius: 20%;
+  border: 5px solid orange;
+  margin: 0.5em;
+}
+
+input[type=checkbox], input[type=radio] {
+  margin: 0.3em;
+}
+
+button {
+  margin: 0.5em;
+  background: orange!important;
+  border: orange!important;
+}
+
+input[type=text] {
+  width: 300px;
+}
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+fieldset p {
+  margin: 0;
+}
+
+.container {
+  background-color: #ffffff;
+  margin-top: 1em;
+}
