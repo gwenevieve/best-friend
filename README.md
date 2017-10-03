@@ -1,2 +1,7 @@
 # best-friend
-best friend finder!
+
+* html5
+* php
+* jquery
+* css
+* boostrap 3
